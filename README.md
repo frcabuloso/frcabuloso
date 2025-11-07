@@ -33,9 +33,7 @@ Crio APIs, bots e aplicações web modernas
 
 <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js">
 <img src="https://img.shields.io/badge/Express-333333?style=flat&logo=express">
-<img src="https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs">
 <img src="https://img.shields.io/badge/Fastify-333333?style=flat&logo=fastify">
-<img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python">
 <img src="https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp">
 <img src="https://img.shields.io/badge/.NET-333333?style=flat&logo=dotnet">
 <img src="https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B">
