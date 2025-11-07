@@ -15,7 +15,6 @@ Crio APIs, bots e aplicações web modernas
   <a href="mailto:vtferreira120@email.com"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://discord.com/users/1175695069555200055" target="_blank"><img src="https://img.shields.io/badge/Discord-333333?style=flat&logo=discord&logoColor=white"></a>
   <a href="https://fazendo.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-333333?style=flat&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/frcabuloso"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 ---
