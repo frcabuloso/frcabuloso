@@ -3,7 +3,7 @@
 <h2 align="center">Olá, me chamo Victor Ferreira</h2>
 
 <p align="center" style="font-size:15px; color:#b2b2b2;">
-Desenvolvedor Full Stack com foco em backend e sólida experiência em frontend.
+Desenvolvedor Full Stack com foco em backend e boa experiência em frontend, criando soluções eficientes e bem estruturadas.
 </p>
 
 <p align="center" style="font-size:14px; color:#8b949e; margin-top:-10px;">
