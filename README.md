@@ -40,7 +40,6 @@ Crio APIs, bots e aplicações web modernas
 <img src="https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp">
 <img src="https://img.shields.io/badge/.NET-333333?style=flat&logo=dotnet">
 <img src="https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B">
-<img src="https://img.shields.io/badge/PHP-333333?style=flat&logo=php">
 
 <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql">
 <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql">
