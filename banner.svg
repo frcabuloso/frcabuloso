@@ -11,17 +11,4 @@
 
   <rect width="1200" height="300" fill="url(#bg)"/>
 
-  <text x="260" y="140" font-family="Segoe UI, sans-serif" font-size="42" fill="#d6ffe5" font-weight="600">
-    fr
-  </text>
-
-  <text x="260" y="180" font-family="monospace" font-size="18" fill="#9fffc7">
-    Full Stack, Cybersecurity, APIs, Bots, Automation
-  </text>
-
-  <rect x="260" y="195" width="480" height="2" fill="#00ff95" opacity="0.15"/>
-
-  <text x="260" y="220" font-family="monospace" font-size="14" fill="#00ff95" opacity="0.6">
-    &gt; secure_system.initialize();
-  </text>
 </svg>
