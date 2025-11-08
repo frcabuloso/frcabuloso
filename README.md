@@ -2,7 +2,7 @@
 
 
 <p align="center" style="font-size:14px; color:#8b949e; margin-top:-10px;">
-Full Stack & Cybersecurity. Construo sistemas, bots e APIs com segurança e eficiência.
+Full Stack & Cybersec. Construo sistemas, bots e APIs com segurança e eficiência.
 </p>
 
 
