@@ -11,7 +11,7 @@
 
   <rect width="1200" height="300" fill="url(#bg)"/>
 
-  <image href="https://avatars.githubusercontent.com/u/185911548?v=4"
+  <image href="./avatar.png"
          x="80" y="80" width="140" height="140"
          clip-path="url(#circle)" preserveAspectRatio="xMidYMid slice"/>
 
