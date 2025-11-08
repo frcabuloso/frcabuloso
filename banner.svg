@@ -11,12 +11,6 @@
 
   <rect width="1200" height="300" fill="url(#bg)"/>
 
-  <image href="./avatar.png"
-         x="80" y="80" width="140" height="140"
-         clip-path="url(#circle)" preserveAspectRatio="xMidYMid slice"/>
-
-  <circle cx="150" cy="150" r="75" fill="none" stroke="#00ff95" stroke-opacity="0.25" stroke-width="2"/>
-
   <text x="260" y="140" font-family="Segoe UI, sans-serif" font-size="42" fill="#d6ffe5" font-weight="600">
     fr
   </text>
