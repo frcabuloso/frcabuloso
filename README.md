@@ -27,17 +27,7 @@ Full Stack & Cybersec. Construo sistemas, bots e APIs com segurança e eficiênc
 
 <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js">
 <img src="https://img.shields.io/badge/Express-333333?style=flat&logo=express">
-<img src="https://img.shields.io/badge/Fastify-333333?style=flat&logo=fastify">
 <img src="https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp">
 <img src="https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B">
 
 </p>
-
----
-
-<div align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px; padding:12px; width:fit-content; margin:auto;">
-  <a href="https://github.com/frcabuloso" style="text-decoration:none;">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=frcabuloso&show_icons=true&theme=dark&hide_title=true&hide_border=true&rank_icon=github&card_width=300"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frcabuloso&layout=compact&theme=dark&hide_border=true&card_width=300"/>
-  </a>
-</div>
