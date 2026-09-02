@@ -1,4 +1,4 @@
-<p align="center"> <img src="./banner.svg" /> </p>
+<p align="center"> <img src="./fr.png" /> </p>
 
 
 <p align="center" style="font-size:14px; color:#8b949e; margin-top:-10px;">
